@@ -9,17 +9,13 @@
   url: "/info/"
   side: left
   dropdown:
-  - title: "About Us"
-    url: "#"
   - title: "Meet the Authors"
     url: "#"
 
-- title: Blog
-  url: "/blog/"
+- title: Archive
+  url: "/blog/archive/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
   - title: "Categories"
     url: "/blog/categories/"
   - title: "Tags"
